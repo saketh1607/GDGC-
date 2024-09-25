@@ -17,7 +17,7 @@ Download or Clone the Project:
 Download the HTML file or clone the repository if it's hosted on a version control platform like GitHub.
 Open the HTML File:
 
-Simply open the HTML file (index.html) in any modern web browser (e.g., Chrome, Firefox, Safari).
+Simply open the HTML file (one.html) in any modern web browser (e.g., Chrome, Firefox, Safari).
 Interact with the Platform:
 
 You can add products to the cart by clicking the "Add to Cart" button.
